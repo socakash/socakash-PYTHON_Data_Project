@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="header.png" alt="Python Project Banner" width="800">
-</p>
+
 # Data Jobs Analysis
 
 This project explores job postings data to answer one key question:
