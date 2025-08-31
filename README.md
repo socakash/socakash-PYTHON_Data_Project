@@ -58,7 +58,10 @@ The notebooks generate visual insights including:
 - Top companies hiring for each role  
 - Salary trends (where available)  
 
-*(Add screenshots of plots here once you’re ready, e.g. skill distribution charts.)*
+<img width="1180" height="546" alt="_!" src="https://github.com/user-attachments/assets/efd41430-25c8-4b4d-8bc8-f1a30432699b" />
+
+<img width="986" height="558" alt="_2" src="https://github.com/user-attachments/assets/2dac37c5-fc0c-498d-8b4f-3b62b0f81ccb" />
+
 
 ---
 
